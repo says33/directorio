@@ -1,0 +1,10 @@
+.project
+/log/*.log
+/tmp
+*.swp
+target/
+s3-plugin-temp/
+Directorio-*-config.groovy
+.DS_Store
+cobertura.ser
+.classpath
